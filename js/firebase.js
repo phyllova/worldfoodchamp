@@ -1,13 +1,13 @@
 // Initialize Firebase
 const firebaseConfig = {
-  apiKey: "AIzaSyDF4-chr5TBKjCajoSF5KxHMG5G2KnBs6E",
-  authDomain: "asiafamerss.firebaseapp.com",
-  databaseURL: "https://asiafamerss-default-rtdb.firebaseio.com",
-  projectId: "asiafamerss",
-  storageBucket: "asiafamerss.appspot.com",
-  messagingSenderId: "117657355170",
-  appId: "1:117657355170:web:b257037115d465a4f2a8fb",
-  measurementId: "G-YECPY4SL1P"
+  apiKey: "AIzaSyBko9LYwCL_N76sQEJc9Hc-d7wMf-tvwp0",
+  authDomain: "arabtras.firebaseapp.com",
+  databaseURL: "https://arabtras-default-rtdb.firebaseio.com",
+  projectId: "arabtras",
+  storageBucket: "arabtras.appspot.com",
+  messagingSenderId: "870232168232",
+  appId: "1:870232168232:web:440d8c683c8feba45be21d",
+  measurementId: "G-WETHZJE559"
 };
 firebase.initializeApp(firebaseConfig);
 const appCheck = firebase.appCheck();
